@@ -1,6 +1,6 @@
 # Thanks for stopping by :)
 
-👋Hi, I'm Nadia! <br>👩‍💻I'm an aspiring software engineer with a background in front-end web development<br>🎓BCIT alumni and current student at BrainStation<br>✨I'm currently interested in learning Python, Assembly, Rust, Swift, React Native, and C++<br>🍵I'm a big lover of cats and an avid matcha drinker (which comes in handy during those long coding sessions ♨︎_♨︎)<br>🎧Fun fact: I love playing video games and would love to make my own game one day!
+👋Hi, I'm Nadia! <br>👩‍💻I'm a software engineer with a background in front-end web development<br>🎓BCIT FWD and BrainStation alumna<br>✨I'm currently interested in learning mobile application development and working on my own Startup!<br>🍵I'm a big lover of cats and an avid matcha drinker (which comes in handy during those long coding sessions ♨︎_♨︎)<br>🎧Fun fact: I love playing video games and would love to make my own game one day!
 
 ## Socials:
 

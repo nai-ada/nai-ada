@@ -1,4 +1,4 @@
-# Welcome! 
+# Welcome to my corner of the web! 💻
 
 👋Hi, I'm Nadia! <br>👩‍💻I'm a full-stack software engineer with a focus in front-end web development<br>🎓BCIT FWD and BrainStation alumna<br>🍵I'm a big lover of cats and an avid matcha drinker (which comes in handy during those long coding sessions ♨︎_♨︎)<br>🎧Fun fact: I love video games and would love to make my own game one day!
 

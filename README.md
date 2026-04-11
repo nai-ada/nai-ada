@@ -1,6 +1,6 @@
 # Welcome! 👋
 
-🍓 Hi, I'm Nadia!<br>💻 Full-stack software engineer with a strong interest in backend development and data<br>🎓 BCIT FWD & BrainStation alumna<br>🍵 Avid coffee drinker & late-night coder<br>
+🍓 Hi, I'm Nadia!<br>💻 Social media marketing coordinator & software developer with a strong interest in frontend design, SEO + analytics and data<br>🎓 BCIT FWD & BrainStation alumna<br>🍵 Avid coffee drinker & late-night coder<br>
 
 ## Socials:
 
